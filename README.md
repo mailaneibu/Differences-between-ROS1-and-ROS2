@@ -51,7 +51,7 @@ ROS2 : use python to write launch files (def...)
 
 ## ROS communication 
 
-ROS1 : start a ros master before run a node 
+ROS1 : start a ros master before run a node\
       
       
 ![Screenshot 2023-04-07 151910](https://user-images.githubusercontent.com/118521344/230667812-25a9c258-f7e4-498f-96ec-05f40a0cbca6.png)
