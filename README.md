@@ -35,8 +35,13 @@ class NumberCounterNode(Node) :
 
 ROS1 : Nodelets (multiple nodes in 1 executable)
 
+![Screenshot 2023-04-07 154326](https://user-images.githubusercontent.com/118521344/230668056-3770b5e9-334d-4376-a834-67c0df8d6ba9.png)
+
+
 ROS2 : components = modified node class 
-![Screenshot 2023-04-07 151143](https://user-images.githubusercontent.com/118521344/230667800-0c6be4ba-9d7b-45ea-8cc7-6827eaf74f1c.png)
+
+![Screenshot 2023-04-07 154341](https://user-images.githubusercontent.com/118521344/230668064-b6420ddf-0501-489d-96f2-01981fe8f12d.png)
+
 
 ## Launch files
 
